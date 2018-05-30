@@ -5,7 +5,7 @@ var storageHandler;
 (storageHandler = function () {
   
   var _ls = window.localStorage;
-  var prefix = "rbwt_";
+  var prefix = "rjb_"; // whatever prefix you want
   
   function prefixer(value){
     
