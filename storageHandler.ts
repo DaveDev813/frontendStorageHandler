@@ -1,7 +1,7 @@
 /**
  * @author Rodave Joseph B. Bobadilla
  */
-const storageHandler = () => {
+const StorageHandler = () => {
   const _ls = window.localStorage;
   const prefix = "rjb_"; // whatever prefix you want
 
@@ -204,4 +204,4 @@ const storageHandler = () => {
   return typeof Storage !== "undefined" ? localStorageHandler : cookieHandler;
 };
 
-export default storageHandler;
+export default StorageHandler;

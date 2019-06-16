@@ -1,5 +1,5 @@
 {
-  "name": "frontendstoragehandler",
+  "name": "storagehandler",
   "version": "1.2.0",
   "description": "Storage for frontend ",
   "main": "index.js",
