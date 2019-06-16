@@ -1,0 +1,23 @@
+{
+  "name": "frontendstoragehandler",
+  "version": "1.2.0",
+  "description": "Storage for frontend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveDev813/frontendStorageHandler.git"
+  },
+  "keywords": [
+    "localstorage",
+    "cookie"
+  ],
+  "author": "Rodave Joseph B. Bobadilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveDev813/frontendStorageHandler/issues"
+  },
+  "homepage": "https://github.com/DaveDev813/frontendStorageHandler#readme"
+}
